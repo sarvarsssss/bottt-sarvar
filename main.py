@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from oxfordlookup import getDefinitions
 from googletrans import Translator
 translator = Translator()
-API_TOKEN = '1996844144:AAHw4RCN2TdizLsBhDfpjv_9Mnb_OtOmQl4'
+API_TOKEN = '5020612185:AAGgsEjxTydZLKE4xpwT9OFT8N3IZqPw-kI'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
